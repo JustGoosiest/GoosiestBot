@@ -2,7 +2,7 @@
 
 In development.
 
-# Commands
+***Commands***
 
 - `$credit`
 - `$ping`
