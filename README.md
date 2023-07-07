@@ -1,2 +1,9 @@
 # GoosiestBot
-A discord bot that can't even run a simple command (in development).
+
+In development.
+
+# Commands
+
+- `$credit`
+- `$ping`
+- `$source`
