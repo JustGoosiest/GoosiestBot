@@ -7,3 +7,6 @@ In development.
 - `$credit`
 - `$ping`
 - `$source`
+- `$clear`
+- `$uptime`
+- `$invite`
