@@ -4,7 +4,7 @@ In development.
 
 ***Commands***
 
-- `$credit`
+- `$credits`
 - `$ping`
 - `$source`
 - `$clear`
